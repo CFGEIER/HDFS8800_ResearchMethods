@@ -1,0 +1,63 @@
+---
+title: "HDFS 8800 - Research Methods"
+author: "Charles Geier, Ph.D."
+date: "Spring 2025"
+output:
+  html_document:
+    df_print: kable
+    mathjax: default
+    number_sections: no
+    theme: united
+    toc: yes
+    toc_float: true
+    fig_width: 9 
+    fig_height: 6 
+---
+<style type="text/css">
+body{ font-size: 20px; max-width: 1600px; margin: auto; padding: 1em; }
+code.r{ font-size: 20px; }
+p { padding-top: 10px; padding-bottom: 10px; }
+pre { font-size: 16px; }
+</style>
+<style>
+.toc ul, #TOC ul, nav#TOC ul {
+    font-size: 14px;
+}
+.toc ul li, #TOC ul li, nav#TOC ul li {
+    font-size: 14px;
+}
+</style>
+<br/><br/>
+<img src="/Users/charlesgeier/Desktop/HDFS.8800.Spring.2025/HDFS.8800.Rmarkdown/research-method-1.png" alt="Research Methods" width="50%"> 
+<br/><br/>
+Welcome to **HDFS 8800 - Research Methods**! This website provides access to lectures and materials for the Spring 2025 semester.
+
+This graduate course provides a broad overview of major methodological considerations in the social and behavioral sciences, particularly as they relate to the study of human development and family science. The course focuses on general principles and perspectives of social science research. Topics include foundational concepts across the behavioral sciences (e.g., ethics, sampling, measurement, logic of hypothesis testing, etc.), and the evaluation of specific methodologies (e.g., experimentation, observation, surveys, etc.). Practical research considerations are also covered, as well as unique considerations for contemporary developmental and family science.  
+
+
+# Course content
+
+##    [Syllabus](01_syllabus/syllabus.html)
+##    [Week 1](Week1/Week1.html) 
+##    [Week 2](Week2/Week2.html) 
+##    [Week 3](Week3/Week3.html) 
+<!--[Week 4](Week4/Week4.html)    -->
+<!--[Week 5](Week5/Week5.html)    -->  
+<!--[Week 6](Week6/Week6.html)    -->   
+<!--[Week 7](Week7/Week7.html)    --> 
+<!--[Week 8](Week8/Week8.html)    --> 
+<!--[Week 9](Week9/Week9.html)    --> 
+<!--[Week 10](Week10/Week10.html) --> 
+<!--[Week 11](Week11/Week11.html) --> 
+<!--[Week 12](Week12/Week12.html) --> 
+<!--[Week 13](Week13/Week13.html) --> 
+<!--[Week 14](Week14/Week14.html) --> 
+<!--[Week 15](Week15/Week15.html) --> 
+<!--[Week 16](Week16/Week16.html) --> 
+
+
+-----
+To obtain the latest materials for this class, use `git clone` to download the course repository: 
+`git clone https://github.com/CFGEIER/HDFS-8800.git '
+
+If you already cloned a local copy of the repo, you can get the latest updates using `git update.` If all of this git stuff is foreign, I'd recommend a quick skim of this documentation: https://happygitwithr.com
